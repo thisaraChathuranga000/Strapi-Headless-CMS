@@ -1,1 +1,1 @@
-# Strapi-test
+# Strapi - Open source Node.js Headless CMS
